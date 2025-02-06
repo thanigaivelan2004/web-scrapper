@@ -1,0 +1,418 @@
+[
+    {
+        "Offer": "24% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nBesan Fine/Kadale Hittu\n3.9\n23912 Ratings\n500 g",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹63",
+        "Original Price": "₹83"
+    },
+    {
+        "Offer": "₹90 OFF",
+        "Company Name": "Nandini",
+        "Product Details": "Nandini\nPure Ghee\n4.1\n14302 Ratings\n2 x 1 L - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹1170",
+        "Original Price": "₹1260"
+    },
+    {
+        "Offer": "21% OFF",
+        "Company Name": "bb Gooddiet",
+        "Product Details": "bb Gooddiet\nSugar - Low GI\n4.1\n866 Ratings\n2x500 g - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹110",
+        "Original Price": "₹140"
+    },
+    {
+        "Offer": "20% OFF",
+        "Company Name": "Aashirvaad",
+        "Product Details": "Aashirvaad\nAtta/Godihittu - Whole Wheat\n4.1\n67085 Ratings\n10 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹434.71",
+        "Original Price": "₹540"
+    },
+    {
+        "Offer": "22% OFF",
+        "Company Name": "Tata Sampann",
+        "Product Details": "Tata Sampann\nUnpolished Toor Dal/Arhar Dal\n4\n33928 Ratings\n2 x 1 kg - (Multipack)",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹390",
+        "Original Price": "₹498"
+    },
+    {
+        "Offer": "21% OFF",
+        "Company Name": "Fortune",
+        "Product Details": "Fortune\nSun Lite Refined Sunflower Oil\n4.1\n55951 Ratings\n3 x 1 L - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹450",
+        "Original Price": "₹570"
+    },
+    {
+        "Offer": "₹7 OFF",
+        "Company Name": "fresho!",
+        "Product Details": "fresho!\nPure Ghee/Tuppa\n4.1\n8838 Ratings\n200 ml",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹137.75",
+        "Original Price": "₹145"
+    },
+    {
+        "Offer": "26% OFF",
+        "Company Name": "bb Popular",
+        "Product Details": "bb Popular\nCalifornian Almond - Giri\n3.9\n7465 Ratings\n1 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹889.5",
+        "Original Price": "₹1200"
+    },
+    {
+        "Offer": "No Offer",
+        "Company Name": "GRB",
+        "Product Details": "GRB\nGhee\n4.1\n6852 Ratings\n2 x 500 ml - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹738",
+        "Original Price": "No Original Price"
+    },
+    {
+        "Offer": "15% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nCold Pressed Olive Oil Blend\n3.9\n48 Ratings\n5 L",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹1189",
+        "Original Price": "₹1400"
+    },
+    {
+        "Offer": "37% OFF",
+        "Company Name": "bb Popular",
+        "Product Details": "bb Popular\nToor/Arhar Dal\n5 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹851",
+        "Original Price": "₹1349"
+    },
+    {
+        "Offer": "₹67 OFF",
+        "Company Name": "Aashirvaad",
+        "Product Details": "Aashirvaad\nAtta - With Multigrains\n4\n26828 Ratings\n10 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹603",
+        "Original Price": "₹670"
+    },
+    {
+        "Offer": "₹65 OFF",
+        "Company Name": "Aashirvaad",
+        "Product Details": "Aashirvaad\nSelect Sharbati Atta\n4.1\n25533 Ratings\n10 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹585",
+        "Original Price": "₹650"
+    },
+    {
+        "Offer": "31% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nPeanuts/Kadalekayi - Raw\n1 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹159",
+        "Original Price": "₹230"
+    },
+    {
+        "Offer": "35% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nOrganic - Toor Dal/Togari Bele\n4\n19911 Ratings\n5 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹946",
+        "Original Price": "₹1449"
+    },
+    {
+        "Offer": "20% OFF",
+        "Company Name": "Fortune",
+        "Product Details": "Fortune\nKachi Ghani Mustard Oil\n4.1\n32207 Ratings\n5x1 L - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹757.5",
+        "Original Price": "₹950"
+    },
+    {
+        "Offer": "44% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nOrganic - Raw Peanuts/Kadalekayi\n500 g",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹76",
+        "Original Price": "₹136"
+    },
+    {
+        "Offer": "36% OFF",
+        "Company Name": "Tata Sampann",
+        "Product Details": "Tata Sampann\nFine Besan/Kadale Hittu - 100% Chana Dal\n4.1\n12239 Ratings\n1 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹107",
+        "Original Price": "₹166"
+    },
+    {
+        "Offer": "68% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nCumin/Jeera/Jeerige - Whole\n4\n81267 Ratings\n100 g - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹38",
+        "Original Price": "₹120"
+    },
+    {
+        "Offer": "₹13 OFF",
+        "Company Name": "Idhayam",
+        "Product Details": "Idhayam\nGingelly Oil\n4.1\n10787 Ratings\n500 ml - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹188",
+        "Original Price": "₹201"
+    },
+    {
+        "Offer": "₹242 OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nSurti Kolam Rice - 12+ Months Old\n3.8\n7546 Ratings\n26 kg - Bag",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹2358",
+        "Original Price": "₹2600"
+    },
+    {
+        "Offer": "34% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nToor Dal/Togari Bele - Desi\n3.9\n35197 Ratings\n5 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹959.5",
+        "Original Price": "₹1449"
+    },
+    {
+        "Offer": "11% OFF",
+        "Company Name": "bb Popular",
+        "Product Details": "bb Popular\nPhool Makhana\n100 g - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹178",
+        "Original Price": "₹200"
+    },
+    {
+        "Offer": "21% OFF",
+        "Company Name": "Tata Sampann",
+        "Product Details": "Tata Sampann\nUrad Dal/Uddina Bele Whole White\n4\n7722 Ratings\n1 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹193.55",
+        "Original Price": "₹245"
+    },
+    {
+        "Offer": "48% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nSona Masoori Steam Rice - 6+ Months Old\n3.9\n1595 Ratings\n26 kg - Bag",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹1149",
+        "Original Price": "₹2210"
+    },
+    {
+        "Offer": "33% OFF",
+        "Company Name": "bb Popular",
+        "Product Details": "bb Popular\nMoong Dal/Hesaru Bele\n4\n45189 Ratings\n1 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹127",
+        "Original Price": "₹190"
+    },
+    {
+        "Offer": "27% OFF",
+        "Company Name": "Tata Sampann",
+        "Product Details": "Tata Sampann\nMoong Dal/Hesaru Bele\n4\n16428 Ratings\n1 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹149",
+        "Original Price": "₹205"
+    },
+    {
+        "Offer": "56% OFF",
+        "Company Name": "bb Popular",
+        "Product Details": "bb Popular\nWalnut/Akhrot - Kernels\n3.6\n2954 Ratings\n200 g",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹378",
+        "Original Price": "₹850"
+    },
+    {
+        "Offer": "16% OFF",
+        "Company Name": "bb Popular",
+        "Product Details": "bb Popular\nCashew/Godambi - Whole\n3.9\n14334 Ratings\n1 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹1107",
+        "Original Price": "₹1310"
+    },
+    {
+        "Offer": "19% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nMaida\n4\n52529 Ratings\n5x1 kg - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹305",
+        "Original Price": "₹375"
+    },
+    {
+        "Offer": "49% OFF",
+        "Company Name": "BB Royal Organic",
+        "Product Details": "BB Royal Organic\nCold Pressed Groundnut Cooking Oil - Cooks Indian Dishes\n3x1L - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹918.72",
+        "Original Price": "₹1800"
+    },
+    {
+        "Offer": "23% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nOrganic - Urad Whole Gota Unpolished\n3.9\n4618 Ratings\n2 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹385",
+        "Original Price": "₹499"
+    },
+    {
+        "Offer": "27% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nSooji Ordinary/Bombay Rava\n5x1 kg - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹290",
+        "Original Price": "₹395"
+    },
+    {
+        "Offer": "33% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nKurnool Sona Masoori Raw Rice - 12+ Months Old\n26 kg - Bag",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹1558",
+        "Original Price": "₹2340"
+    },
+    {
+        "Offer": "22% OFF",
+        "Company Name": "bb Popular",
+        "Product Details": "bb Popular\nSugar/Sakkare\n4\n31597 Ratings\n5 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹235",
+        "Original Price": "₹300"
+    },
+    {
+        "Offer": "34% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nSuperior-Mp-Sharbati-Atta/Godihittu - Fortified\n3.9\n16893 Ratings\n5 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹219",
+        "Original Price": "₹330"
+    },
+    {
+        "Offer": "27% OFF",
+        "Company Name": "bb Popular",
+        "Product Details": "bb Popular\nPeanuts/Kadalekayi - Raw\n1 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹160",
+        "Original Price": "₹220"
+    },
+    {
+        "Offer": "27% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nFried Gram/Huri Kadale\n3.9\n27894 Ratings\n1 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹146",
+        "Original Price": "₹199"
+    },
+    {
+        "Offer": "13% OFF",
+        "Company Name": "Saffola",
+        "Product Details": "Saffola\nGold Oil - Power Of 3, Blend Of Rice Bran & Sunflower Oil\n3.9\n1233 Ratings\n2 L - Jar",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹325.31",
+        "Original Price": "₹375"
+    },
+    {
+        "Offer": "17% OFF",
+        "Company Name": "Saffola",
+        "Product Details": "Saffola\nGold Oil - Power Of 3, Blend Of Rice Bran & Sunflower Oil\n4.1\n17064 Ratings\n1 L - Pouch",
+        "Pack Details": "1 L - Pouch",
+        "Discounted Price": "₹180",
+        "Original Price": "₹217"
+    },
+    {
+        "Offer": "49% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nOrganic - Chana Brown/Kadale Kaalu\n4\n19135 Ratings\n1 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹120",
+        "Original Price": "₹234"
+    },
+    {
+        "Offer": "No Offer",
+        "Company Name": "LG",
+        "Product Details": "LG\nPowder - Asafoetida\n4.2\n11894 Ratings\n500 g - Jar",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹883",
+        "Original Price": "No Original Price"
+    },
+    {
+        "Offer": "17% OFF",
+        "Company Name": "Parry's",
+        "Product Details": "Parry's\nWhite Label Sugar\n4.1\n4869 Ratings\n5 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹250",
+        "Original Price": "₹300"
+    },
+    {
+        "Offer": "31% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nOrganic Kabuli Chana/Kabuli Kadale\n3.9\n13165 Ratings\n2 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹373",
+        "Original Price": "₹539"
+    },
+    {
+        "Offer": "29% OFF",
+        "Company Name": "Tata Sampann",
+        "Product Details": "Tata Sampann\nWhite Thick Poha - High In Fibre, For Breakfast & Evening Tea\n4\n9640 Ratings\n2x1kg - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹162",
+        "Original Price": "₹228"
+    },
+    {
+        "Offer": "34% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nGreen Moong Whole/Hesaru Kaalu - Sabut\n4\n26006 Ratings\n1 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹146",
+        "Original Price": "₹220"
+    },
+    {
+        "Offer": "11% OFF",
+        "Company Name": "Dhara",
+        "Product Details": "Dhara\nRefined - Sunflower Oil\n4.1\n9259 Ratings\n3x1 L - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹519.22",
+        "Original Price": "₹585"
+    },
+    {
+        "Offer": "34% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nOrganic - Moong Dal/Hesaru Bele, Unpolished\n4\n10633 Ratings\n2 kg",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹297",
+        "Original Price": "₹449"
+    },
+    {
+        "Offer": "25% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nUrad Dal/Uddina Bele - Split\n4\n15359 Ratings\n2 kg - Pouch",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹313",
+        "Original Price": "₹420"
+    },
+    {
+        "Offer": "41% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nOrganic - Brown Sugar/Sakkare\n500 g",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹41",
+        "Original Price": "₹70"
+    },
+    {
+        "Offer": "16% OFF",
+        "Company Name": "Tata Sampann",
+        "Product Details": "Tata Sampann\n100% Pure Premium Cashews Whole Premium Nuts & Dry Fruits\n4\n1626 Ratings\n2x500g - Multipack",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹1309.44",
+        "Original Price": "₹1550"
+    },
+    {
+        "Offer": "35% OFF",
+        "Company Name": "bb Royal",
+        "Product Details": "bb Royal\nOrganic - Raisins/Ona Drakshi\n4\n16433 Ratings\n100 g",
+        "Pack Details": "No Pack Details",
+        "Discounted Price": "₹51",
+        "Original Price": "₹79"
+    }
+]
