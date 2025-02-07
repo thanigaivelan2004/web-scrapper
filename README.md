@@ -91,9 +91,8 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 For any queries, feel free to reach out:
-📧 Email: your-email@example.com
-🚀 Project Website: [cheapmart.com](https://cheapmart.com)
-
+📧 Email: thanigaivelan2004@gmail.com
+## UI Deign
 <img src="./UI Design/Landing Page.jpg">
 <img src="./UI Design/Product Detail Page.jpg">
 <img src="./UI Design/Product Listing Page.jpg">
