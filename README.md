@@ -93,3 +93,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 For any queries, feel free to reach out:
 📧 Email: your-email@example.com
 🚀 Project Website: [cheapmart.com](https://cheapmart.com)
+
+<img src="./UI Design/Landing Page.jpg">
+<img src="./UI Design/Product Detail Page.jpg">
+<img src="./UI Design/Product Listing Page.jpg">
